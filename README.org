@@ -15,3 +15,10 @@ What started with the Big Chonky evolved into a more petite size.
 
 For this one I wrote a quick port of Matt Adereth's dactyl code to generate the shape of the keywells and the shape of the cavities for the switches. The intention is that one can model a basic shape around the generated keywell shapes.
 I added a pinky rotation option as I found it to be very comfortable on the Absolem keyboard.
+
+Generated model:
+[[img/generate.png]]
+
+
+Finale model example:
+[[/img/model.png]]
