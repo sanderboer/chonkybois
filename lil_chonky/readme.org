@@ -9,10 +9,10 @@ This is the next iteration of the original lil Chonkster, after using the previo
 
 * Punk Rock Hot Swap
 Strictly speaking this is not part of the design, but it is part of my build. During the design iterations I changed cases a number of times and I got real sick of the resoldering. Not so much the work itself, but I felt there was a real degradation happening with each resolder.
-I found an example of somebody using small rivets in stead of the mil-max connectors. The plan is to put a small rivet over one of the legs of a switch, use pliers to squash the rivet on the leg. Then comes the intersting bit, this squashed rivet will too easily come off, now you must remove the rivet from the leg and give it an extra squeeze. Too hard and it will not go over the leg again, too little, it will come loose too easily, repeat until a healthy friction fit is achieved.
+I found an example of somebody using small rivets in stead of the mill-max connectors. The plan is to put a small rivet over one of the legs of a switch, use pliers to squash the rivet on the leg. Then comes the intersting bit, this squashed rivet will too easily come off, now you must remove the rivet from the leg and give it an extra squeeze. Too hard and it will not go over the leg again, too little, it will come loose too easily, repeat until a healthy friction fit is achieved.
 
-[[../img/3478.jpg]]
-[[../img/3479.jpg]]
+[[../img/IMG_3478.jpg]]
+[[../img/IMG_3479.jpg]]
 
 
 * BOM
