@@ -4,37 +4,47 @@
 #+CAPTION: Lil Chonky in ALps and MX version. 
 [[../img/IMG_3475.jpg]]
 
-This is the next iteration of the original lil Chonkster, after using the previous incarnation for a couple of months I decided to ease the tenting and I found I needed a little less curvature of the keywell. After some testing I also adapted the thumbcluster to be a little.
+This is the next iteration of the original lil Chonkster, after using the previous incarnation for a couple of months I decided to ease the tenting and I found I needed a little less curvature of the keywell. After some testing I also adapted the thumbcluster a little. Pictured are the Alps and the MX version, the thumbcluster is designed for 1.75u keycaps and for MX keys these are harder to come by than imagined. In the BOM is a link to an ALI store that allows you to order any format, but 1.75u is calculated as having the price of 4x 1u.
+
+
+* Punk Rock Hot Swap
+Strictly speaking this is not part of the design, but it is part of my build. During the design iterations I changed cases a number of times and I got real sick of the resoldering. Not so much the work itself, but I felt there was a real degradation happening with each resolder.
+I found an example of somebody using small rivets in stead of the mil-max connectors. The plan is to put a small rivet over one of the legs of a switch, use pliers to squash the rivet on the leg. Then comes the intersting bit, this squashed rivet will too easily come off, now you must remove the rivet from the leg and give it an extra squeeze. Too hard and it will not go over the leg again, too little, it will come loose too easily, repeat until a healthy friction fit is achieved.
+
+[[../img/3478.jpg]]
+[[../img/3479.jpg]]
+
+
 * BOM
 
-12 x knurled inserts M3 x D5 x  L4.0
+[[../img/IMG_3481.jpg]]
+
+- 12 x knurled inserts M3 x D5 x  L4.0
 https://nl.aliexpress.com/item/4000232858343.html
-
-rivets for punk rock hotswap
+- rivets for punk rock hotswap
 https://nl.aliexpress.com/item/32955662951.html
+- 12 m3 x 6(or 8) screws. I had round head laying around, but flat heads are more practical: https://nl.aliexpress.com/item/4000742472778.html?spm=a2g0o.store_pc_groupList.8148356.1.4b54694dlYVj6k
 
-12 m3 x 6(or 8) screws
-I had round head laying around, but flat heads are more practical:
-https://nl.aliexpress.com/item/4000742472778.html?spm=a2g0o.store_pc_groupList.8148356.1.4b54694dlYVj6k
+- 34 switches.These Holy Pandas are amaze and kinda awesome: https://nl.aliexpress.com/item/1005001678253507.html?spm=a2g0s.9042311.0.0.27424c4dcuYsDy
 
-34 switches
-https://nl.aliexpress.com/item/1005001678253507.html?spm=a2g0s.9042311.0.0.27424c4dcuYsDy
+- (optional) switch lube, station and opener https://nl.aliexpress.com/item/4001287632004.html?spm=a2g0s.9042311.0.0.27424c4dP1bmnZ
 
-switch lube, station and opener
-https://nl.aliexpress.com/item/4001287632004.html?spm=a2g0s.9042311.0.0.27424c4dP1bmnZ
+- 2 x TRSS connectors
 
-2 x TRSS connectors
+- 34 x 1n4148 diodes. https://nl.aliexpress.com/item/1934432186.html?spm=a2g0s.9042311.0.0.27424c4dCcuaFD
 
-34 x 1n4148 diodes
-https://nl.aliexpress.com/item/1934432186.html?spm=a2g0s.9042311.0.0.27424c4dCcuaFD
+- 30x dsa 1u keycaps, 4x  dsa 1.75u keycaps https://nl.aliexpress.com/item/32850729893.html
 
-30x dsa 1u keycaps
-4x  dsa 1.75u keycaps
-https://nl.aliexpress.com/item/32850729893.html
+- 2x pro micro https://nl.aliexpress.com/item/32768308647.html?spm=a2g0s.9042311.0.0.27424c4dS8z6Py
 
-2x pro micro
-https://nl.aliexpress.com/item/32768308647.html?spm=a2g0s.9042311.0.0.27424c4dS8z6Py
+- 1x sticky grippy rubber mat. https://nl.aliexpress.com/item/4000013831045.html?spm=a2g0s.9042311.0.0.27424c4d6xGt3Y
 
-1x sticky grippy rubber mat
-https://nl.aliexpress.com/item/4000013831045.html?spm=a2g0s.9042311.0.0.27424c4d6xGt3Y
+* Images
 
+[[../img/IMG_3487.jpg]]
+[[../img/IMG_3488.jpg]]
+[[../img/IMG_3489.jpg]]
+[[../img/IMG_3490.jpg]]
+[[../img/IMG_3492.jpg]]
+
+[[../img/IMG_3493.jpg]]
