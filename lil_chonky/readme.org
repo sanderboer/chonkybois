@@ -1,4 +1,10 @@
 
+* Lil Chonky v 1.1
+
+#+CAPTION: Lil Chonky in ALps and MX version. 
+[[../img/IMG_3475.jpg]]
+
+This is the next iteration of the original lil Chonkster, after using the previous incarnation for a couple of months I decided to ease the tenting and I found I needed a little less curvature of the keywell. After some testing I also adapted the thumbcluster to be a little.
 * BOM
 
 12 x knurled inserts M3 x D5 x  L4.0
