@@ -62,14 +62,20 @@ For the wired version, QMK is the way to go, I maintain a form of qmk with a key
 https://github.com/sanderboer/qmk_firmware
 
 ** Wireless
+
+*** BluemicroBLE
 Similarly I maintain my keymap for the wireless build in my own fork of BlueMicroBLE (lil_chonky_kb branch):
 
 https://github.com/sanderboer/BlueMicro_BLE/tree/lil_chonky_kb
+build script for linux is in the root of my for of the repo.
 
-And as an alternative I also have my keymap implemented in my ZMK fork (lil _ chonky  branch):
+
+*** ZMK
+And as an alternative I also have my keymap implemented in my ZMK fork (lil_chonky  branch):
 
 https://github.com/sanderboer/zmk/tree/lil_chonky
-  
+
+Please refer to the ZMK docs for setup the build env, build script for linux is in the app/boards/shields/lil_conky_bois/ dir
 * Images
 
 [[./img/IMG_3487.jpg]]
