@@ -67,7 +67,8 @@ https://github.com/sanderboer/qmk_firmware
 Similarly I maintain my keymap for the wireless build in my own fork of BlueMicroBLE (lil_chonky_kb branch):
 
 https://github.com/sanderboer/BlueMicro_BLE/tree/lil_chonky_kb
-build script for linux is in the root of my for of the repo.
+
+Please refer to the BlueMicroBLE docs for installing the build env, additional setup and build script for linux is in the root of my for of the repo.
 
 
 *** ZMK
@@ -78,6 +79,12 @@ https://github.com/sanderboer/zmk/tree/lil_chonky
 Please refer to the ZMK docs for setup the build env, build script for linux is in the app/boards/shields/lil_conky_bois/ dir
 * Images
 
+#+CAPTION: Bluemacro840 under construction
+[[./img/bluemacro.jpg]]
+
+#+CAPTION: Wired version in the background with wrist rests, wired version showing its guts. Note the removable botplate thanks to the jst connectors.
+[[./img/all.jpg]]
+
 [[./img/IMG_3487.jpg]]
 [[./img/IMG_3488.jpg]]
 [[./img/IMG_3489.jpg]]
@@ -85,3 +92,7 @@ Please refer to the ZMK docs for setup the build env, build script for linux is 
 [[./img/IMG_3492.jpg]]
 
 [[./img/IMG_3493.jpg]]
+
+#+CAPTION: The original Big Chonky Bois and Lil CHonky Bois that started it all.
+[[./img/chonkies.jpg]]
+
