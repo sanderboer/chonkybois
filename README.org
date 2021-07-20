@@ -14,7 +14,14 @@ Having started with handwired alps keyboards, repurposing AEKII switches, I turn
 When I made an MX version I quickly fell into a rabbit hole of blues (yuck), browns (oof), yellows (hello), glorious pandas (wat) and black inks (fuyooo) and I have barely scratched the surface. No, like lubing and filming your switches, I now consider hotswap to be *mandatory* for any keyboard enthousiast. I manage to solder a set in roughly two hours and my back hates it, if I see a nice switch set on ali (I see you tecsee purples) I do not want to think about breathing soldering fumes for another evening. No, I want to think about the taste of krytox 205g0 on my fingers instead ! /s
 
 * Extras
-Fo conveniece, several wrist rests are provided in a separate blend file, the gel version has also been exported as an stl. Please note that I am using some weird rubber feet I found in a craft store, sold by the pound and you will need to accomodate accordingly.
+
+** Wrist rests
+For conveniece, several wrist rests are provided in a separate blend file, the gel version has also been exported as an stl. Please note that I am using some weird rubber feet I found in a craft store, sold by the pound and you will need to accomodate accordingly.
+
+** Switch fit tester / Super Awesome Fidget Unit.
+Essentially I lifted three homerow keys out of the right side and modeled it into a tester to test switch fit and to test the switch feel.
+Put a lubed and unlubed switch in here and amaze your friends !
+[[./img/fidget.jpg]]
 
 * BOM
 
