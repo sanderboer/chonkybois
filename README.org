@@ -1,8 +1,8 @@
 
 * Lil Chonky Bois.
 
-#+CAPTION: Lil Chonky in ALps and MX version. 
-[[./img/IMG_3475.jpg]]
+MX hotswap, wireless version.
+[[./img/mx_hotswap_inks_2.jpg]]
 
 This is the case design for the Lil Chonky Bois, the successor of the original Chonky Boi, which has been moved to the archive.
 The Chonky Bois come in different flavors, i.e. wired and wireless. The wireless version accomodates the [[https://store.jpconstantineau.com/#/group/bluemicro][bluemicro840 v1.x]] and the [[https://store.jpconstantineau.com/#/group/bluemicro][bluemacro840 v1.x]]. Rumor has it that the Nice!Nanos are going to be in stock again in the nearnear future, when I can get a hold of a couple, I will update this repo with a holder for it, providing the original promicro holder will not suffice.
@@ -89,6 +89,10 @@ Wired version in the background with wrist rests, wired version showing its guts
 
 The original Big Chonky Bois and Lil CHonky Bois that started it all.
 [[./img/chonkies.jpg]]
+
+
+Lil Chonky in ALps and MX version. 
+[[./img/IMG_3475.jpg]]
 
 
 Wired version, XDA keycaps.
