@@ -5,7 +5,7 @@
 [[./img/IMG_3475.jpg]]
 
 This is the case design for the Lil Chonky Bois, the successor of the original Chonky Boi, which has been moved to the archive.
-The Chonky Bois come in different flavors, i.e. wired and wireless. The wireless version accomodates the [[https://store.jpconstantineau.com/#/group/bluemicro][bluemicro840 v1.x]] and the [[https://store.jpconstantineau.com/#/group/bluemicro][bluemacro840 v1.x]]. Rumor has it that the Nice!Nanos are going to be in stock again in the nearnear future, when I can get a hold of a couple, I will update this repo with a holder for the nice!nano, providing the original promicro holder will not suffice.
+The Chonky Bois come in different flavors, i.e. wired and wireless. The wireless version accomodates the [[https://store.jpconstantineau.com/#/group/bluemicro][bluemicro840 v1.x]] and the [[https://store.jpconstantineau.com/#/group/bluemicro][bluemacro840 v1.x]]. Rumor has it that the Nice!Nanos are going to be in stock again in the nearnear future, when I can get a hold of a couple, I will update this repo with a holder for it, providing the original promicro holder will not suffice.
 Furthermore, MX hotswap and ALPS mountplate versions are provided.
 
 * Hot Swap
@@ -19,48 +19,56 @@ Fo conveniece, several wrist rests are provided in a separate blend file, the ge
 * BOM
 
 ** General
-| type                                 | amount | dimensions                                                                                 | link      |
-|                                      |        |                                                                                            |           |
-|--------------------------------------+--------+--------------------------------------------------------------------------------------------+-----------|
-| knurled inserts                      |     12 | M3 x D5 x  L4.0                                                                            | [[https://nl.aliexpress.com/item/4000232858343.html][ali]]       |
-| m3 screws                            | 6 or 8 | flathead or roundhead                                                                      | [[https://nl.aliexpress.com/item/4000742472778.html?spm=a2g0o.store_pc_groupList.8148356.1.4b54694dlYVj6k][ali]]       |
-| Kailh hotswap sockets                |     34 |                                                                                            | [[https://nl.aliexpress.com/item/4001051840976.html?spm=a2g0s.9042311.0.0.27424c4duT8R5v][ali]] [[https://ymdk.nl.aliexpress.com/store/429151][ymdk]]  |
-| switches                             |     34 | glorious pandas (tactile), gateron inks (linear) or kailh box blues (clicky) or...         | [[https://nl.aliexpress.com/item/1005001678253507.html?spm=a2g0s.9042311.0.0.27424c4dcuYsDy][ali]] [[https://ymdk.nl.aliexpress.com/store/429151][ymdk]]  |
-| switch lube and station              |    n/a | Optional, but if you are not lubing your switches, why are you here ?                      | [[https://nl.aliexpress.com/item/4001287632004.html?spm=a2g0s.9042311.0.0.27424c4dP1bmnZ][ali]] [[https://ymdk.nl.aliexpress.com/store/429151][ymdk]]  |
-| 1n4148 diodes                        |     34 |                                                                                            | [[https://nl.aliexpress.com/item/1934432186.html?spm=a2g0s.9042311.0.0.27424c4dCcuaFD][ali]]       |
-| grippy rubber                        |    n/a | To keep the kb from sliding, harder to find than I'd like to admit                         | [[https://nl.aliexpress.com/item/4000013831045.html?spm=a2g0s.9042311.0.0.27424c4d6xGt3Y][ali]]       |
-| color coated copper wire             |        | Optional, but the color coding and the thin wires really suit this project                 | [[https://www.aliexpress.com/item/1005001321847977.html?spm=a2g0o.productlist.0.0.665f679fQf9Wr3&algo_pvid=39d5a03a-f154-49a6-99ae-430757534207&algo_expid=39d5a03a-f154-49a6-99ae-430757534207-34&btsid=0b0a556616228166325978017eb0fb&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_][ali]]       |
-| keycaps dsa/xda                      |     34 | 30x1u and 4x1.5u                                                                           | [[https://nl.aliexpress.com/item/1005001376888502.html?spm=a2g0s.9042311.pcrcomd.1.2b254c4drfqukj&gps-id=pcOrderList&scm=1007.30114.213637.0&scm_id=1007.30114.213637.0&scm-url=1007.30114.213637.0&pvid=67330b30-a52a-417b-af98-0368b264de63&_t=gps-id:pcOrderList,scm-url:1007.30114.213637.0,pvid:67330b30-a52a-417b-af98-0368b264de63,tpp_buckets:668%230%23131923%2375_668%23888%233325%2311_20114%230%23213637%235_20114%233258%2310449%2333_668%232846%238114%231999_668%235811%2327185%2368_668%236421%2330822%23182_668%232717%237567%23922__668%233374%2315176%23590_19670%230%23233084%230_19670%233636%2316450%23358_19670%234867%2324465%23166_19670%235271%2324224%23319_19670%233633%2316436%23436_19670%232760%237734%23528_19670%233043%239190%239_19670%235119%2323475%23944&&pdp_ext_f=%257B%2522scene%2522%253A%252220114%2522%257D][ali]]  [[https://ymdk.nl.aliexpress.com/store/429151][ymdk]] |
-|                                      |        |                                                                                            |           |
-|--------------------------------------+--------+--------------------------------------------------------------------------------------------+-----------|
-| WIRELESS                             |        |                                                                                            |           |
-| bluemicro840 v1.x/bluemacro 840 v1.x |      2 | do not mix micro and macro                                                                 |           |
-| micro reset switch                   |      2 | hardware reset switch; boards need double click to be put into dfu mode                    | [[https://nl.aliexpress.com/item/32919212895.html?spm=a2g0s.9042311.0.0.27424c4dsfyf3P][ali]]       |
-| jst connector                        |      1 | 1 4-pin male and female; optional, disconnecting the botplate is a quality of life option. | [[https://nl.aliexpress.com/item/32963843207.html?spm=a2g0s.9042311.0.0.27424c4dZ8ET6k][ali]]       |
-|                                      |        |                                                                                            |           |
-|--------------------------------------+--------+--------------------------------------------------------------------------------------------+-----------|
-| WIRED                                |        |                                                                                            |           |
-| TRSS connector                       |      2 | stereo, check your local electronics store                                                 |           |
-| Pro Micro MCU                        |      2 | Elite-C (usb-c) or teensy 2.0 (usb-mini) are viable alternatives                           | [[https://nl.aliexpress.com/item/32768308647.html?spm=a2g0s.9042311.0.0.27424c4dS8z6Py][ali]]       |
-|                                      |        |                                                                                            |           |
-|--------------------------------------+--------+--------------------------------------------------------------------------------------------+-----------|
-| ALPS                                 |        |                                                                                            |           |
-| Alps no name clone                   |        | Still waiting on delivery,so untested as yet. Get an old apple AEKII on ebay instead.      | [[https://nl.aliexpress.com/item/32654107324.html?spm=a2g0s.9042311.0.0.2b254c4drfqukj][ali]]       |
-|--------------------------------------+--------+--------------------------------------------------------------------------------------------+-----------|
-| MISC                                 |        |                                                                                            |           |
-| Gel wrist rest                       |      2 |                                                                                            | [[https://nl.aliexpress.com/item/32894937019.html?spm=a2g0s.9042311.0.0.27424c4d6VJaFU][ali]]       |
-| Crimp tool                           |        |                                                                                            |           |
+| type                                 | amount | remarks                                                                               | link      |
+|                                      |        |                                                                                       |           |
+|--------------------------------------+--------+---------------------------------------------------------------------------------------+-----------|
+| knurled inserts                      |     12 | M3 x D5 x  L4.0                                                                       | [[https://nl.aliexpress.com/item/4000232858343.html][ali]]       |
+| m3 screws                            | 6 or 8 | flathead or roundhead                                                                 | [[https://nl.aliexpress.com/item/4000742472778.html?spm=a2g0o.store_pc_groupList.8148356.1.4b54694dlYVj6k][ali]]       |
+| Kailh hotswap sockets                |     34 |                                                                                       | [[https://nl.aliexpress.com/item/4001051840976.html?spm=a2g0s.9042311.0.0.27424c4duT8R5v][ali]] [[https://ymdk.nl.aliexpress.com/store/429151][ymdk]]  |
+| switches                             |     34 | glorious pandas (tactile), gateron inks (linear) or kailh box blues (clicky) or...    | [[https://nl.aliexpress.com/item/1005001678253507.html?spm=a2g0s.9042311.0.0.27424c4dcuYsDy][ali]] [[https://ymdk.nl.aliexpress.com/store/429151][ymdk]]  |
+| switch lube and station              |    n/a | Optional, but if you are not lubing your switches, why are you here ?                 | [[https://nl.aliexpress.com/item/4001287632004.html?spm=a2g0s.9042311.0.0.27424c4dP1bmnZ][ali]] [[https://ymdk.nl.aliexpress.com/store/429151][ymdk]]  |
+| 1n4148 diodes                        |     34 |                                                                                       | [[https://nl.aliexpress.com/item/1934432186.html?spm=a2g0s.9042311.0.0.27424c4dCcuaFD][ali]]       |
+| grippy rubber                        |    n/a | To keep the kb from sliding, harder to find than I'd like to admit                    | [[https://nl.aliexpress.com/item/4000013831045.html?spm=a2g0s.9042311.0.0.27424c4d6xGt3Y][ali]]       |
+| color coated copper wire             |        | Optional, but the color coding and the thin wires really suit this project            | [[https://www.aliexpress.com/item/1005001321847977.html?spm=a2g0o.productlist.0.0.665f679fQf9Wr3&algo_pvid=39d5a03a-f154-49a6-99ae-430757534207&algo_expid=39d5a03a-f154-49a6-99ae-430757534207-34&btsid=0b0a556616228166325978017eb0fb&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_][ali]]       |
+| keycaps dsa/xda                      |     34 | 30x1u and 4x1.5u                                                                      | [[https://nl.aliexpress.com/item/1005001376888502.html?spm=a2g0s.9042311.pcrcomd.1.2b254c4drfqukj&gps-id=pcOrderList&scm=1007.30114.213637.0&scm_id=1007.30114.213637.0&scm-url=1007.30114.213637.0&pvid=67330b30-a52a-417b-af98-0368b264de63&_t=gps-id:pcOrderList,scm-url:1007.30114.213637.0,pvid:67330b30-a52a-417b-af98-0368b264de63,tpp_buckets:668%230%23131923%2375_668%23888%233325%2311_20114%230%23213637%235_20114%233258%2310449%2333_668%232846%238114%231999_668%235811%2327185%2368_668%236421%2330822%23182_668%232717%237567%23922__668%233374%2315176%23590_19670%230%23233084%230_19670%233636%2316450%23358_19670%234867%2324465%23166_19670%235271%2324224%23319_19670%233633%2316436%23436_19670%232760%237734%23528_19670%233043%239190%239_19670%235119%2323475%23944&&pdp_ext_f=%257B%2522scene%2522%253A%252220114%2522%257D][ali]]  [[https://ymdk.nl.aliexpress.com/store/429151][ymdk]] |
+| gel superglue                        |      1 | The hotswap sockets are glued in place, gel is better with filling printed gaps      | [[https://www.bol.com/nl/nl/p/pattex-superglue-ultra-mini-gel-trio-3-tubes-1-g/9200000124384556/?bltgh=rqwMHWBgJ-3A8e7KMN9HYg.2_9.10.ProductImage][bol]]       |
+|--------------------------------------+--------+---------------------------------------------------------------------------------------+-----------|
+| WIRELESS                             |        |                                                                                       |           |
+| bluemicro840 v1.x/bluemacro 840 v1.x |      2 | Do not mix micro and macro                                                           | [[https://store.jpconstantineau.com/#/group/bluemicro][store]]     |
+| micro reset switch                   |      2 | Hardware reset switch; boards need double click to be put into dfu mode              | [[https://nl.aliexpress.com/item/32919212895.html?spm=a2g0s.9042311.0.0.27424c4dsfyf3P][ali]]       |
+| jst connector                        |      1 | one 4-pin male and female;disconnecting the botplate is a quality of life option.    | [[https://nl.aliexpress.com/item/32963843207.html?spm=a2g0s.9042311.0.0.27424c4dZ8ET6k][ali]]       |
+| On/Off switch                        |      2 |                                                                                       | [[https://nl.aliexpress.com/item/32952489874.html?algo_pvid=0746314c-408e-4bc0-8845-a367f93002af&algo_exp_id=0746314c-408e-4bc0-8845-a367f93002af-0][ali]]       |
+| LiPo battery                         |      2 | Shipping to your country could be an issue, check local drone tech suppliers.         | [[https://nl.aliexpress.com/item/32977525312.html?spm=a2g0s.9042311.0.0.27424c4dynClON][ali]]       |
+|--------------------------------------+--------+---------------------------------------------------------------------------------------+-----------|
+| WIRED                                |        |                                                                                       |           |
+| Pro Micro MCU                        |      2 | Elite-C (usb-c) or teensy 2.0 (usb-mini) are viable alternatives                      | [[https://nl.aliexpress.com/item/32768308647.html?spm=a2g0s.9042311.0.0.27424c4dS8z6Py][ali]]       |
+| TRSS connector                       |      2 | Needs to be stereo                                                                   | [[https://nl.aliexpress.com/item/4000640677390.html?spm=a2g0s.9042311.0.0.27424c4dX6v9oC][ali]]       |
+| TRSS cable                           |      1 | Or any old male-male stereo 2.5 mm jack audio aux cable.                              | [[https://nl.aliexpress.com/item/32459681560.html?spm=a2g0s.9042311.0.0.27424c4dynClON][ali]]       |
+|--------------------------------------+--------+---------------------------------------------------------------------------------------+-----------|
+| ALPS                                 |        |                                                                                       |           |
+| Alps no name clone                   |        | Still waiting on delivery,so untested as yet. Get an old apple AEKII on ebay instead. | [[https://nl.aliexpress.com/item/32654107324.html?spm=a2g0s.9042311.0.0.2b254c4drfqukj][ali]]       |
+|--------------------------------------+--------+---------------------------------------------------------------------------------------+-----------|
+| MISC / Quality of life               |        |                                                                                       |           |
+| Gel wrist rest                       |      2 |                                                                                       | [[https://nl.aliexpress.com/item/32894937019.html?spm=a2g0s.9042311.0.0.27424c4d6VJaFU][ali]]       |
+| Crimp tool                           |      1 | For your jst connectors, and the molex connectors in your maker future.              | [[https://nl.aliexpress.com/item/32910569929.html?spm=a2g0s.9042311.0.0.27424c4dZ8ET6k][ali]]       |
+| Superglue accelerator / activator    |        | Check your local hardware store.                                                      |           |
 
 
+* Firmware
 
-- 30x dsa 1u keycaps, 4x  dsa 1.75u keycaps https://nl.aliexpress.com/item/32850729893.html
+** Wired
+For the wired version, QMK is the way to go, I maintain a form of qmk with a keymap for the Lil Chonky Bois:
 
-- 2x pro micro https://nl.aliexpress.com/item/32768308647.html?spm=a2g0s.9042311.0.0.27424c4dS8z6Py
+https://github.com/sanderboer/qmk_firmware
 
-- 1x sticky grippy rubber mat. https://nl.aliexpress.com/item/4000013831045.html?spm=a2g0s.9042311.0.0.27424c4d6xGt3Y
+** Wireless
+Similarly I maintain my keymap for the wireless build in my own fork of BlueMicroBLE (lil_chonky_kb branch):
 
-- (optional) color coated copper wire.
-  untested link of a product that looks like the one I am using: https://www.aliexpress.com/item/1005001321847977.html?spm=a2g0o.productlist.0.0.665f679fQf9Wr3&algo_pvid=39d5a03a-f154-49a6-99ae-430757534207&algo_expid=39d5a03a-f154-49a6-99ae-430757534207-34&btsid=0b0a556616228166325978017eb0fb&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+https://github.com/sanderboer/BlueMicro_BLE/tree/lil_chonky_kb
+
+And as an alternative I also have my keymap implemented in my ZMK fork (lil _ chonky  branch):
+
+https://github.com/sanderboer/zmk/tree/lil_chonky
   
 * Images
 
