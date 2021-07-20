@@ -76,6 +76,7 @@ Similarly I maintain my keymap for the wireless build in my own fork of BlueMicr
 https://github.com/sanderboer/BlueMicro_BLE/tree/lil_chonky_kb
 
 Please refer to the BlueMicroBLE docs for installing the build env, additional setup and build script for linux is in the root of my for of the repo.
+Please let me express my extreme gratitude to [[https://github.com/jpconstantineau/][Pierre Constantineau]], the creator of the bluemicro840, for his extremely patient and helpful guidance on discord in setting up the boards and showing me just how deep the rabbit hole of bluetooth voodoo goes. 
 
 
 *** ZMK
