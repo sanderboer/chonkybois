@@ -86,14 +86,14 @@ Bluemacro840 under construction
 Wired version in the background with wrist rests, wired version showing its guts. Note the removable botplate thanks to the jst connectors.
 [[./img/all.jpg]]
 
-[[./img/IMG_3487.jpg]]
-[[./img/IMG_3488.jpg]]
+
+The original Big Chonky Bois and Lil CHonky Bois that started it all.
+[[./img/chonkies.jpg]]
+
+
+Wired version, XDA keycaps.
 [[./img/IMG_3489.jpg]]
-[[./img/IMG_3490.jpg]]
 [[./img/IMG_3492.jpg]]
 
 [[./img/IMG_3493.jpg]]
-
-#+CAPTION: The original Big Chonky Bois and Lil CHonky Bois that started it all.
-[[./img/chonkies.jpg]]
 
